@@ -8,3 +8,8 @@ class Faculty :
         self.__university = university
         self.__direction = direction
         self.__N = N
+class Exam:
+    def __init__ ( self, level, subject ):
+        self.__level = level
+        self.__subject = subject
+        
