@@ -18,5 +18,5 @@ class Teacher:
     def __init__ ( self, subject, age1):
         self.__subject = subject
         self.__age1 = age1
->>>>>>> Stashed changes
+
         
